@@ -9,6 +9,9 @@
 
 <p><em>AI & ML Developer with a focus on Clinical Research and Medicine</em></p>
 
+
+
+
 ## 💫 About Me
 
 I'm a passionate AI & ML Developer with a foundation in clinical research, eager to bridge AI with clinical research and medicine. My education in Clinical Pharmacy and diplomas in Data Science have equipped me with a unique blend of skills to tackle healthcare challenges innovatively.
