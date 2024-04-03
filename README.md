@@ -7,7 +7,7 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230" />
 
-<p><em>AI & ML Developer with a focus on Clinical Research and Medicine</em></p>
+<p><em>AI & ML Developer with a focus on Clinical Research, Medicine, and Bioinformatics </em></p>
 
 
 
