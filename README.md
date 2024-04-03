@@ -46,7 +46,8 @@ I'm a passionate AI & ML Developer with a foundation in clinical research, eager
 ## 🌱 I’m currently learning
 
 - Advanced techniques in bioinformatics
-- MLOps practices for ML model deployment
+- Biostatistics & Medical writing
+- Deep Learning and NLP 
 
 ## 📫 How to reach me
 
