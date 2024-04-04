@@ -31,8 +31,8 @@ I'm a passionate AI & ML Developer with a foundation in clinical research, eager
 ## Projects
 
 - [Thyroid Detection AI Project](https://github.com/ibrahim232/Thyroid-Detection)
-- [Prostate Cancer Treatment Research](https://github.com/ibrahim232/Prostate-Cancer-Research)
-- [Bioinformatics Pipeline for Genomic Data](https://github.com/ibrahim232/Genomic-Pipeline)
+- [Cirrhosis Prediction with AI Research](https://github.com/ibrahim232/Cirrhosis-Prediction-with-AI)
+- [Bioinformatics Pipeline for Genomic Data](https://github.com/ibrahim232/Gene-Classification-)
 
 ## 📚 Research & Publications
 
