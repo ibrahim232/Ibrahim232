@@ -30,7 +30,7 @@ I'm a passionate AI & ML Developer with a foundation in clinical research, eager
 
 ## Projects
 
-- [Thyroid Detection AI Project](https://github.com/ibrahim232/Thyroid-Detection)
+- [Thyroid Detection AI Project](https://github.com/ibrahim232/Thyroid-Classification-Project)
 - [Cirrhosis Prediction with AI Research](https://github.com/ibrahim232/Cirrhosis-Prediction-with-AI)
 - [Bioinformatics Pipeline for Genomic Data](https://github.com/ibrahim232/Gene-Classification-)
 
