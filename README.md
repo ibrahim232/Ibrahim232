@@ -25,7 +25,7 @@ I'm a passionate AI & ML Developer with a foundation in clinical research, eager
 ## Experience
 
 - **Clinical Researcher**, MARS -Global (July 2022 - Present)
-- **Medical Social Media Specialist**, Eureka Digital (Oct. 2023 - Present)
+- **Medical Advisor**, Eureka Digital (Oct. 2023 - Present)
 - **Data Scientist Intern**, Epsilon AI Institute (Jan. 2024 - Present)
 
 ## Projects
