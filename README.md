@@ -5,7 +5,10 @@
   <a href="https://www.linkedin.com/in/ibrahim-abdelnasar/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 32px; height: 32px; border-radius: 50%;"/></a>
   <a href="https://github.com/ibrahim232"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
+
+
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230" />
+
 
 <p><em>AI & ML Developer with a focus on Clinical Research, Medicine, and Bioinformatics </em></p>
 
