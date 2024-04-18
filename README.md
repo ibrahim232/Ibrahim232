@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi, I'm Ibrahim Abdelnasar <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h1>
+
 <p align="center">
   <a href="mailto:Ibrahimnasar400@gmail.com"><img src="https://img.shields.io/badge/Email-Ibrahimnasar400@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ibrahim-abdelnasar/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width: 32px; height: 32px; border-radius: 50%;"/></a>
@@ -7,10 +8,13 @@
 </p>
 
 
+<br>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230" />
+</br>
 
-
-<p><em>AI & ML Developer with a focus on Clinical Research, Medicine, and Bioinformatics </em></p>
+<br>
+<p><em>Venturing at the intersection of AI, ML, and the life sciences, I specialize in weaving data-driven insights into the fabric of clinical research, medicine, and bioinformatics. My passion lies in the uncharted territories of drug discovery, where I blend the realms of science and compassion to pioneer novel therapies. Join me as we unravel the mysteries of cancer research, forging new pathways to healing and hope. </em></p>
+</br>
 
 
 
