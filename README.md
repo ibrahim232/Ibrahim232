@@ -8,9 +8,9 @@
 </p>
 
 
-<br>
+
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="230" />
-</br>
+
 
 <br>
 <p><em>Venturing at the intersection of AI, ML, and the life sciences, I specialize in weaving data-driven insights into the fabric of clinical research, medicine, and bioinformatics. My passion lies in the uncharted territories of drug discovery, where I blend the realms of science and compassion to pioneer novel therapies. Join me as we unravel the mysteries of cancer research, forging new pathways to healing and hope. </em></p>
